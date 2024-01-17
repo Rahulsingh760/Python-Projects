@@ -4,7 +4,7 @@ from tkinter import *
 import os
 
 def playsong():
-    currentsong=playlist.get(ACTIVE)
+    currentsong=playlist.get(ACTIVE)///////vgvghcgcgcv
     print(currentsong)
     mixer.music.load(currentsong)
     songstatus.set("Playing")
